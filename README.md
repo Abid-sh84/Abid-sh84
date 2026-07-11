@@ -1,45 +1,75 @@
+# <𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙰𝚋𝚒𝚍 𝚂𝚑𝚊𝚒𝚔𝚑 👋 />
+
+```txt
+    _    _     _     _     
+   / \  | |__ (_) __| |    
+  / _ \ | '_ \| |/ _` |    
+ / ___ \| |_) | | (_| |    
+/_/   \_\_.__/|_|\__,_|    
+
+  Full-Stack Developer | Clean Code Enthusiast
+```
+
+```md
+# 🖼️ Avatar (ASCII Style)
+```
+
 <div align="center">
-  <h1>Hi, I'm Abid Shaikh 👋</h1>
-  <h3>Passionate Full‑Stack Developer</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=500&lines=React+%2B+Node.js+%2B+TypeScript;Building+clean%2C+scalable+web+apps;Open+to+collaboration+and+freelance+work" alt="Typing animation" />
+  <img src="https://avatars.githubusercontent.com/u/147331189?v=4" alt="Abid Shaikh Avatar" width="170" style="border-radius: 12px;"/>
 </div>
 
-###
+```txt
+[ASCII Mode Activated]
+[Image Source Linked]
+```
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shkabid40/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/AbidShaikh550">
-    <img src="https://img.shields.io/static/v1?message=Twitter(X)&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter/X" />
-  </a>
-  <a href="mailto:muhammadabid9326@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
-  </a>
-</div>
+```md
+## 👨‍💻 about_me.ts
+```
 
-###
+```ts
+const aboutMe = {
+  name: "Abid Shaikh",
+  role: "Full-Stack Developer",
+  focus: [
+    "Responsive Web Apps",
+    "Accessible UI",
+    "Performance Optimization",
+    "Clean Architecture"
+  ],
+  currentlyLearning: ["Advanced TypeScript", "Scalable Backend Patterns"],
+  openTo: ["Collaboration", "Freelance Projects", "Open Source Contributions"]
+};
+```
 
-<h3 align="left">👩‍💻 About Me</h3>
+```md
+## 🛠 tech_stack.json
+```
 
-- I’m a full‑stack developer who loves building responsive, accessible, and performant web apps.
-- I work across the stack with React, Node.js, Express, MongoDB — now with TypeScript.
-- Always learning, refactoring, and improving developer experience with clean code and best practices.
-- Open to collaboration on interesting projects and freelance opportunities.
+```json
+{
+  "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Tailwind CSS"],
+  "backend": ["Node.js", "Express.js"],
+  "database": ["MongoDB"],
+  "tools": ["Git", "GitHub", "Postman", "VS Code"],
+  "other": ["Python"]
+}
+```
 
-###
+```md
+## 🤝 lets_connect.sh
+```
 
-<h3 align="left">🛠 Tech Stack</h3>
+```bash
+#!/usr/bin/env bash
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,mongodb,nodejs,express" height="40" alt="tech stack" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="40" alt="tools" />
-</div>
+echo "Let’s build something awesome together 🚀"
+echo "LinkedIn : https://www.linkedin.com/in/shkabid40/"
+echo "X(Twitter): https://x.com/AbidShaikh550"
+echo "Email    : muhammadabid9326@gmail.com"
+```
 
-<!-- Removed Firebase and added TypeScript (ts) as requested -->
-
-<h3 align="left">🤝 Let’s Connect</h3>
-
-- Want to collaborate or discuss an idea? Reach out on <a href="https://www.linkedin.com/in/shkabid40/">LinkedIn</a> or email me at <a href="mailto:muhammadabid9326@gmail.com">muhammadabid9326@gmail.com</a>.
-- If you like my work, consider ⭐ starring the repositories!
+```md
+## ⭐ support.md
+If you like my work, feel free to star my repositories and connect with me!
+```
